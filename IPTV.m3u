@@ -147,35 +147,25 @@ http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,Discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 #EXTINF:-1,Discovery World HD
-http://190.83.119.67:8000/play/a0tc/index.m3u8
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1,Discovery ID HD
-http://190.83.119.67:8000/play/a0tf/index.m3u8
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 #EXTINF:-1,BBC Earth
-https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156012&extension=ts&play_token=6RCt1Fb32p
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://190.83.119.67:8000/play/a0t8/index.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156011&extension=ts&play_token=P4XdXN7HKq
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155989&extension=ts&play_token=rNG8r6lfBe
 #EXTINF:-1,Animal Planet HD
-http://190.83.119.67:8000/play/a0sb/index.m3u8
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1,TLC
-http://190.83.119.67:8000/play/a0sd/index.m3u8
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1,Discovery Science
-http://190.83.119.67:8000/play/a0ny/index.m3u8
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1,Love nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,History Channel
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
-#EXTINF:-1,History HD
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1,Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1,Food
-https://ft-ifood-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,Crime Time
-https://crimetimebamca-roku.amagi.tv/playlist404-p.m3u8
-#EXTINF:-1,Horse and Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Law and Crime Network
-http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156018&extension=ts&play_token=s5fbCiJqsJ
 #EXTINF:-1,CGTN
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1,CGTN Documentary
@@ -185,27 +175,27 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
+#EXTINF:-1 ch-id="Cartoon Network India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280748&extension=ts&play_token=RmFK3j6FUm
+#EXTINF:-1 ch-id="Nickelodeon India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png",Nickelodeon India
+https://delta13tatasky.akamaized.net/out/i/2284303.mpd
+#EXTINF:-1 ch-id="pogo" tvg-logo="https://i.imgur.com/70pYQh4.png",pogo
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156128&extension=ts&play_token=gt1O8RLTWB
+#EXTINF:-1 ch-id="Discovery Kids India" tvg-logo="https://i.imgur.com/0iNQvoL.png"  group-title="ðŸ“º KIDS ðŸ“º",Discovery Kids India
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+#EXTINF:-1 ch-id="Disney Channel India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"  group-title="ðŸ“º KIDS ðŸ“º",Disney Channel India
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm
+#EXTINF:-1 ch-id="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png"  group-title="ðŸ“º KIDS ðŸ“º",Hungama TV
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1112134&extension=ts&play_token=RCXouamxQm
 #EXTINF:-1,Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1,Sony Yay
 
 #EXTINF:-1,Nick Jr.
-http://190.83.119.67:8000/play/a0p9/index.m3u8
-#EXTINF:-1,Wow Kids
-https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
-#EXTINF:-1,Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
 #EXTINF:-1,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1,Disney JR
-http://190.83.119.67:8000/play/a0pb/index.m3u8
-#EXTINF:-1,O Kids
-http://51.210.199.11/hls/stream.m3u8
-#EXTINF:-1,O Kids Movies
-http://51.210.199.12/hls/stream.m3u8
-#EXTINF:-1,Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8

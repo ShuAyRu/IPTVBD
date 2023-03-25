@@ -1,6 +1,6 @@
 #EXTM3U 
-
-
+#EXTINF:-1,BTV
+http://starshare.live:8080/live/Ridwanul7/6699447733/767.ts
 #EXTINF:-1,NRB TV
 http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1,The Channel TV
@@ -72,7 +72,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,ATN Islamic
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1,GAZI TV 
-
+http://starshare.live:8080/live/Ridwanul7/6699447733/767.ts
 #EXTINF:-1,T-Sports 
 
 #EXTINF:-1 group-title="",JAGONEWS 24 TV Jagobd
@@ -90,41 +90,75 @@ http://starshare.live:8080/live/Ridwanul7/6699447733/425.ts
 http://starshare.live:8080/live/Ridwanul7/6699447733/435.ts
 #EXTINF:-1,Zee Bangla Cinema
 http://starshare.live:8080/live/Ridwanul7/6699447733/410.ts
+#EXTINF:-1,BD: COLORS BANGLA HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/23306.ts
 #EXTINF:-1,SONY AATH 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-
-#EXTINF:-1,SONY HD 
-
-#EXTINF:-1 group-title="",STAR PLUS HD 
-
-#EXTINF:-1 group-title="",COLORS HD 
-
-#EXTINF:-1 group-title="",SAHARA ONE 
-
-#EXTINF:-1 group-title="",UTV HD 
-
-#EXTINF:-1 group-title="",ZEE CLASSIC 
-
-#EXTINF:-1 group-title="",ZEE ACTION 
-
-#EXTINF:-1 group-title="",ZEE ANMOL CINEMA 
-
-#EXTINF:-1 group-title="",B4U MOVIES 
-
-#EXTINF:-1 group-title="",E24 
-
-#EXTINF:-1 group-title="",B4U MUSIC 
-
-#EXTINF:-1 group-title="",B4U MOVIES
-
-#EXTINF:-1,UTV Action
-
-#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png", Star Bharat HD
-
-#EXTINF:-1,Star Gold HD
-
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1,IN: SONY SAB HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/145.ts
+#EXTINF:-1,IN: ZEE TV HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/161.ts
+#EXTINF:-1,IN: ZEE TV FHD
+http://starshare.live:8080/live/Ridwanul7/6699447733/220.ts
+#EXTINF:-1,IN: STAR PLUS HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/221.ts
+#EXTINF:-1,IN: STAR BHARAT HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/199.ts
+#EXTINF:-1,IN: COLORS FHD
+http://starshare.live:8080/live/Ridwanul7/6699447733/195.ts
+#EXTINF:-1,IN: COLOR HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/219.ts
+#EXTINF:-1,IN: SONY TV HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/224.ts
+#EXTINF:-1,IN: SONY MAX HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/151.ts
+#EXTINF:-1,IN: CINEPLEX HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/867.ts
+#EXTINF:-1,IN: ZEE CINEMA HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/230.ts
+#EXTINF:-1,IN: & PICTURES HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/231.ts
+#EXTINF:-1,IN: STAR GOLD HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/194.ts
+#EXTINF:-1,IN: STAR GOLD SELECT HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/210.ts
+#EXTINF:-1,IN: &XPLOR HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/4082.ts
+#EXTINF:-1,IN: UTV HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/1382.ts
+#EXTINF:-1,IN: MOVIES ACTIVE HD D2H
+http://starshare.live:8080/live/Ridwanul7/6699447733/7336.ts
+#EXTINF:-1,IN: B FLIX
+http://starshare.live:8080/live/Ridwanul7/6699447733/4081.ts
+#EXTINF:-1,IN: STAR MOVIES HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/979.ts
+#EXTINF:-1,IN: STAR WORLD HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/978.ts
+#EXTINF:-1,IN: STAR MOVIES SELECT HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/218.ts
+#EXTINF:-1,IN: STAR WORLD PREMIERE HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/217.ts
+#EXTINF:-1,IN: SONY PIX HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/147.ts
+#EXTINF:-1,IN: MN+ HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/178.ts
+#EXTINF:-1,IN: MNX HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/191.ts
+#EXTINF:-1,IN: & PRIVE HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/201.ts
+#EXTINF:-1,IN: & FLIX HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/253.ts
+#EXTINF:-1,IN: HBO 2 HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/185.ts
+#EXTINF:-1,IN: COLORS INFINITY HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/187.ts
+#EXTINF:-1,IN: ZEE CAFE HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/196.ts
+#EXTINF:-1,IN: FYI TV18 HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/152.ts
+#EXTINF:-1,IN: FOX LIFE
+http://starshare.live:8080/live/Ridwanul7/6699447733/2115.ts
 
 #EXTINF:-1 group-title="",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
@@ -138,16 +172,36 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml.index.m3u8
 #EXTINF:-1 group-title="",8X music
 
-#EXTINF:-1 group-title="",Mtv Beats
+#EXTINF:-1,IN: MTV BEATS HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/153.ts
+#EXTINF:-1,IN: MTV HD PLUS
+http://starshare.live:8080/live/Ridwanul7/6699447733/4029.ts
 
-#EXTINF:-1 group-title="",Mtv
 
 #EXTINF:-1 group-title="",Music Mastii
 
-
-#EXTINF:-1,Star Sports 1 HD 
-
-#EXTINF:-1,STAR SPORTS 2 HD 
+#EXTINF:-1,IN: STAR SPORTS 1
+http://starshare.live:8080/live/Ridwanul7/6699447733/98864.ts
+#EXTINF:-1,IN: STAR SPORTS 2
+http://starshare.live:8080/live/Ridwanul7/6699447733/98865.ts
+#EXTINF:-1,IN: STAR SPORTS 1 HINDI
+http://starshare.live:8080/live/Ridwanul7/6699447733/98866.ts
+#EXTINF:-1,IN: STAR SPORTS SELECT 1
+http://starshare.live:8080/live/Ridwanul7/6699447733/98867.ts
+#EXTINF:-1,IN: START SPORTS SELECT 2
+http://starshare.live:8080/live/Ridwanul7/6699447733/98868.ts
+#EXTINF:-1,IN: EUROSPORTS
+http://starshare.live:8080/live/Ridwanul7/6699447733/98869.ts
+#EXTINF:-1,IN: Sony Ten 1
+http://starshare.live:8080/live/Ridwanul7/6699447733/9402.ts
+#EXTINF:-1,IN: Sony Ten 2
+http://starshare.live:8080/live/Ridwanul7/6699447733/9403.ts
+#EXTINF:-1,IN: Sony Ten 3
+http://starshare.live:8080/live/Ridwanul7/6699447733/9404.ts
+#EXTINF:-1,IN: SONY TEN 5
+http://starshare.live:8080/live/Ridwanul7/6699447733/98870.ts
+#EXTINF:-1, SONY ESPN HD
+http://starshare.live:8080/live/Ridwanul7/6699447733/155.ts
 
 #EXTINF:-1,Discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
@@ -155,7 +209,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-sam
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1,Discovery ID HD
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-#EXTINF:-1,BBC Earth
+#EXTINF:-1,BBC Earth HD
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156012&extension=ts&play_token=6RCt1Fb32p
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156011&extension=ts&play_token=P4XdXN7HKq
@@ -177,8 +231,7 @@ http://iptv.prosto.tv:7000/ch84/video.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1,YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="Cartoon Network India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network India
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280748&extension=ts&play_token=RmFK3j6FUm
@@ -189,15 +242,22 @@ http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1
 #EXTINF:-1 ch-id="Discovery Kids India" tvg-logo="https://i.imgur.com/0iNQvoL.png"  group-title="ðŸ“º KIDS ðŸ“º",Discovery Kids India
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
 #EXTINF:-1 ch-id="Disney Channel India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",Disney Channel India
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm
+http://starshare.live:8080/live/Ridwanul7/6699447733/19741.ts
+#http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm
 #EXTINF:-1 ch-id="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png",Hungama TV
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1112134&extension=ts&play_token=RCXouamxQm
 #EXTINF:-1,Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
-#EXTINF:-1,Sony Yay
-
-#EXTINF:-1,Nick Jr.
-
+#EXTINF:-1,IN: Sony_Yay_Hindi
+http://starshare.live:8080/live/Ridwanul7/6699447733/204.ts
+#EXTINF:-1,IN:  Nick_Hindi
+http://starshare.live:8080/live/Ridwanul7/6699447733/205.ts
+#EXTINF:-1,IN: Nick_Junior
+http://starshare.live:8080/live/Ridwanul7/6699447733/206.ts
+#EXTINF:-1,IN: sonic_Hindi
+http://starshare.live:8080/live/Ridwanul7/6699447733/207.ts
+#EXTINF:-1, Animax
+http://starshare.live:8080/live/Ridwanul7/6699447733/19205.ts
 #EXTINF:-1,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,wow-tv

@@ -93,13 +93,11 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1,IN: SONY SAB HD
 
 #EXTINF:-1,IN: ZEE TV HD
-
-#EXTINF:-1,IN: ZEE TV FHD
-
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280773&extension=ts&play_token=ElTiI9x7h0
 #EXTINF:-1,IN: STAR PLUS HD
-
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280767&extension=ts&play_token=rXzQKxFrNE
 #EXTINF:-1,IN: STAR BHARAT HD
-
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280765&extension=ts&play_token=Z1tGUy6Sy2
 #EXTINF:-1,IN: COLORS FHD
 
 #EXTINF:-1,IN: COLOR HD
@@ -231,7 +229,7 @@ http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=2
 #EXTINF:-1 ch-id="pogo" tvg-logo="https://i.imgur.com/70pYQh4.png",pogo
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156128&extension=ts&play_token=gt1O8RLTWB
 #EXTINF:-1 ch-id="Discovery Kids India" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery Kids India
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945938&extension=ts&play_token=2OlvHSXwMu
 #EXTINF:-1 ch-id="Disney Channel India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",Disney Channel India
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm
 #EXTINF:-1 ch-id="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png",Hungama TV

@@ -88,72 +88,72 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=225740&extensi
 #EXTINF:-1,Jalsha Movies HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1,Zee Bangla Cinema
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1,SONY AATH 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1,IN: SONY SAB HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280764&extension=ts&play_token=YaC6YxD6K4
+
 #EXTINF:-1,IN: ZEE TV HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280773&extension=ts&play_token=ElTiI9x7h0
+
 #EXTINF:-1,IN: STAR PLUS HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280767&extension=ts&play_token=rXzQKxFrNE
+http://103.12.122.22:5000/play/a054/index.m3u8
 #EXTINF:-1,IN: STAR BHARAT HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280765&extension=ts&play_token=Z1tGUy6Sy2
-#EXTINF:-1,IN: COLORS FHD
-
+http://103.12.122.22:5000/play/a05h/index.m3u8
+#EXTINF:-1,IN: COLORS HD
+http://103.12.122.22:5000/play/a0ge/index.m3u8
 #EXTINF:-1,IN: SONY TV HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156170&extension=ts&play_token=UZqC0vokdl
+http://103.12.122.22:5000/play/a058/index.m3u8
 #EXTINF:-1,IN: SONY MAX HD
-
+http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1,IN: CINEPLEX HD
 
 #EXTINF:-1,IN: ZEE CINEMA HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280772&extension=ts&play_token=pN5likZ3kl
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32W50Y6.png",&TV 
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945815&extension=ts&play_token=lVn6UGKsOe
+
 #EXTINF:-1,IN: & PICTURES HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945811&extension=ts&play_token=yoHGyKMT8m
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1,IN: STAR GOLD HD
-
+http://103.12.122.22:5000/play/a05j/index.m3u8
 #EXTINF:-1,IN: STAR GOLD SELECT HD
-
+http://103.12.122.22:5000/play/a05l/index.m3u8
 #EXTINF:-1,IN: &XPLOR HD
 
 #EXTINF:-1,IN: UTV HD
 
-#EXTINF:-1,IN: MOVIES ACTIVE HD D2H
+#EXTINF:-1,IN: MOVIES ACTIVE HD
 
 #EXTINF:-1,IN: B4U Movies
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280799&extension=ts&play_token=aERtNM5Gnh
-#EXTINF:-1,IN: STAR MOVIES HD
 
+#EXTINF:-1,IN: STAR MOVIES HD
+http://103.12.122.22:5000/play/a04g/index.m3u8
 #EXTINF:-1,IN: STAR WORLD HD
 
 #EXTINF:-1,IN: STAR MOVIES SELECT HD
-
+http://103.12.122.22:5000/play/a04f/index.m3u8
 #EXTINF:-1,IN: STAR WORLD PREMIERE HD
 
 #EXTINF:-1,IN: SONY PIX HD
-
+http://103.12.122.22:5000/play/a05n/index.m3u8
 #EXTINF:-1,IN: MN+ HD
-
+http://103.12.122.22:5000/play/a04e/index.m3u8
 #EXTINF:-1,IN: MNX HD
-
+http://103.12.122.22:5000/play/a050/index.m3u8
 #EXTINF:-1,IN: & PRIVE HD
-
+http://103.12.122.22:5000/play/a06i/index.m3u8
 #EXTINF:-1,IN: & FLIX HD
-
+http://103.12.122.22:5000/play/a057/index.m3u8
 #EXTINF:-1,IN: HBO 2 HD
 
 #EXTINF:-1,IN: COLORS INFINITY HD
-
+http://103.12.122.22:5000/play/a06g/index.m3u8
 #EXTINF:-1,IN: ZEE CAFE HD
-
+http://103.12.122.22:5000/play/a04d/index.m3u8
 #EXTINF:-1,IN: FYI TV18 HD
 
 #EXTINF:-1,IN: FOX LIFE
-
+http://103.12.122.22:5000/play/a0gw/index.m3u8
 
 #EXTINF:-1 group-title="",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
@@ -170,34 +170,36 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml.index.m3u8
 
 #EXTINF:-1,IN: MTV BEATS HD
 
-#EXTINF:-1,IN: MTV HD PLUS
-
+#EXTINF:-1,IN: MTV HD
+http://103.12.122.22:5000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png",Mastiii
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156050&extension=ts&play_token=C6tUT1U2IS
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music India
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280800&extension=ts&play_token=tYUbVdDQPp
+
 #EXTINF:-1 group-title="",Music Mastii
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zStK8g2.png",Zing!
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156046&extension=ts&play_token=gW10xc85ip
+
 
 
 #EXTINF:-1,IN: STAR SPORTS 1
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=282674&extension=ts&play_token=hNNVHVSzXo
+http://103.12.122.22:5000/play/a044/index.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2
-
+http://103.12.122.22:5000/play/a041/index.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 1
 
 #EXTINF:-1,IN: START SPORTS SELECT 2
 
 #EXTINF:-1,IN: EUROSPORTS
 
-#EXTINF:-1,IN: Sony Ten 1
-
-#EXTINF:-1,IN: Sony Ten 2
-
-#EXTINF:-1,IN: Sony Ten 3
-
-#EXTINF:-1,IN: SONY TEN 5
+#EXTINF:-1,SONY SIX HD
+http://103.12.122.22:5000/play/a043/index.m3u8
+#EXTINF:-1,SONY TEN 1HD
+http://103.12.122.22:5000/play/a042/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://103.12.122.22:5000/play/a05r/index.m3u8
+#EXTINF:-1,SONY TEN 3HD
+http://103.12.122.22:5000/play/a049/index.m3u8
 
 #EXTINF:-1, SONY ESPN HD
 
@@ -207,11 +209,11 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1,Discovery ID HD
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 #EXTINF:-1,BBC Earth HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156012&extension=ts&play_token=6RCt1Fb32p
+http://103.12.122.22:5000/play/a0gj/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156011&extension=ts&play_token=P4XdXN7HKq
+http://103.12.122.22:5000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild India
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155989&extension=ts&play_token=rNG8r6lfBe
+http://103.12.122.22:5000/play/a047/index.m3u8
 #EXTINF:-1,Animal Planet HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1,TLC
@@ -219,9 +221,9 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1,Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1,Love nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1,History Channel
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156018&extension=ts&play_token=s5fbCiJqsJ
+
 #EXTINF:-1,CGTN
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1,CGTN Documentary
@@ -231,23 +233,23 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 
 #EXTINF:-1 ch-id="Cartoon Network India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network India
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=280748&extension=ts&play_token=RmFK3j6FUm
+http://103.12.122.22:5000/play/a04k/index.m3u8
 #EXTINF:-1 ch-id="Nickelodeon India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png",Nickelodeon India
 
 #EXTINF:-1 ch-id="pogo" tvg-logo="https://i.imgur.com/70pYQh4.png",pogo
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156128&extension=ts&play_token=gt1O8RLTWB
+http://103.12.122.22:5000/play/a0hz/index.m3u8
 #EXTINF:-1 ch-id="Discovery Kids India" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery Kids India
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945938&extension=ts&play_token=2OlvHSXwMu
+http://103.12.122.22:5000/play/a04s/index.m3u8
 #EXTINF:-1 ch-id="Disney Channel India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",Disney Channel India
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156000&extension=ts&play_token=ARfmvm4lTm
+http://103.12.122.22:5000/play/a04m/index.m3u8
 #EXTINF:-1 ch-id="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png",Hungama TV
-http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1112134&extension=ts&play_token=RCXouamxQm
+http://103.12.122.22:5000/play/a04l/index.m3u8
 #EXTINF:-1,Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1, Sony_Yay_Hindi
 
 #EXTINF:-1, Nick_Hindi
-
+http://103.12.122.22:5000/play/a068/index.m3u8
 #EXTINF:-1, Nick_Junior
 
 #EXTINF:-1, sonic_Hindi
